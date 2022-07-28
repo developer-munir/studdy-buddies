@@ -1,0 +1,10 @@
+/* .mycaption {
+  top: 60%;
+  transform: translateY(-60%);
+}
+@media screen and (max-width:576px) {
+    .mycaption{
+        top: 0;
+        transform: translateY(0);
+    }
+} */
