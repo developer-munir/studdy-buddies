@@ -1,10 +1,10 @@
-/* .mycaption {
-  top: 60%;
-  transform: translateY(-60%);
+
+/* google font cdn */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* common style */
+
+body{
+  overflow-x: hidden;
+  font-family:'Poppins', sans-serif;
 }
-@media screen and (max-width:576px) {
-    .mycaption{
-        top: 0;
-        transform: translateY(0);
-    }
-} */
+/* header styles */
