@@ -7,4 +7,6 @@ body{
   overflow-x: hidden;
   font-family:'Poppins', sans-serif;
 }
-
+.explore-institute-bg{
+  background-color: aliceblue;
+}
